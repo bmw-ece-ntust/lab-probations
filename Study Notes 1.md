@@ -62,10 +62,10 @@ Purpose- Understand the concept of O-RAN
     Scalability and conflict resolution in RICs.
     Security risks in open interfaces.
     Standardization and interoperability.
-6. Future Directions
-    Incorporating 6G technologies.
-    Refining AI/ML workflows.
-    Enhanced experimental platforms.
+
+
+## 2. Optimal placement of virtualized DUs in O-RAN architecture
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10200260
 
 
 

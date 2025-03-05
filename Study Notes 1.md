@@ -64,6 +64,7 @@ Purpose- Understand the concept of O-RAN
     Standardization and interoperability.
 
 
+
 ## 2. Optimal placement of virtualized DUs in O-RAN architecture
 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10200260
 
